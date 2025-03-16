@@ -1,0 +1,17 @@
+header {
+    height: 40px;
+    background-color: #adb5bd;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); /* Soft shadow effect */
+}
+
+.loginform {
+    border: 1px solid #adb5bd;
+    width: 250px;
+    height: 250px;
+    position: absolute; /* Positions the element absolutely within the body */
+    top: 50%; /* Move the form to the vertical center */
+    left: 50%; /* Move the form to the horizontal center */
+    transform: translate(-50%, -50%); /* Adjust position to truly center it */
+    background-color: #dee2e6; 
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); /* Soft shadow effect */
+}
